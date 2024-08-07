@@ -1,322 +1,466 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1723027740582 tunnel running, 2 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1723028746143 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 policies-kick.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 quite-met.gl.at.ply.gg:3593 => 127.0.0.1:3593 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723027743653 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723028749217 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 policies-kick.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 quite-met.gl.at.ply.gg:3593 => 127.0.0.1:3593 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723027746716 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723028752276 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 policies-kick.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 quite-met.gl.at.ply.gg:3593 => 127.0.0.1:3593 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723027749778 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723028755339 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 policies-kick.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 quite-met.gl.at.ply.gg:3593 => 127.0.0.1:3593 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723027752834 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723028758400 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 policies-kick.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 quite-met.gl.at.ply.gg:3593 => 127.0.0.1:3593 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723027755889 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723028761477 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 policies-kick.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 quite-met.gl.at.ply.gg:3593 => 127.0.0.1:3593 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723027758946 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723028764541 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 policies-kick.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 quite-met.gl.at.ply.gg:3593 => 127.0.0.1:3593 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723027762006 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723028767691 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 policies-kick.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 quite-met.gl.at.ply.gg:3593 => 127.0.0.1:3593 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723027765060 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723028770768 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 policies-kick.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 quite-met.gl.at.ply.gg:3593 => 127.0.0.1:3593 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723027768117 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723028773831 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 policies-kick.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 quite-met.gl.at.ply.gg:3593 => 127.0.0.1:3593 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723027771177 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723028776892 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 policies-kick.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 quite-met.gl.at.ply.gg:3593 => 127.0.0.1:3593 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723027774244 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723028779957 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 policies-kick.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 quite-met.gl.at.ply.gg:3593 => 127.0.0.1:3593 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723027777310 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723028783022 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 policies-kick.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 quite-met.gl.at.ply.gg:3593 => 127.0.0.1:3593 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723027780374 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723028786085 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 policies-kick.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 quite-met.gl.at.ply.gg:3593 => 127.0.0.1:3593 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723027783429 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723028789149 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 policies-kick.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 quite-met.gl.at.ply.gg:3593 => 127.0.0.1:3593 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723027786485 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723028792210 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 policies-kick.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 quite-met.gl.at.ply.gg:3593 => 127.0.0.1:3593 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723027789541 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723028795280 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 policies-kick.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 quite-met.gl.at.ply.gg:3593 => 127.0.0.1:3593 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723027792623 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723028798345 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 policies-kick.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 quite-met.gl.at.ply.gg:3593 => 127.0.0.1:3593 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723027795690 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723028801410 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 policies-kick.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 quite-met.gl.at.ply.gg:3593 => 127.0.0.1:3593 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723027798753 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723028804473 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 policies-kick.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 quite-met.gl.at.ply.gg:3593 => 127.0.0.1:3593 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723027801833 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723028807541 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 policies-kick.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 quite-met.gl.at.ply.gg:3593 => 127.0.0.1:3593 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723027804901 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723028810610 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 policies-kick.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 quite-met.gl.at.ply.gg:3593 => 127.0.0.1:3593 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723027807960 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723028813668 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 policies-kick.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 quite-met.gl.at.ply.gg:3593 => 127.0.0.1:3593 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723027811022 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723028816729 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 policies-kick.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 quite-met.gl.at.ply.gg:3593 => 127.0.0.1:3593 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723027814081 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723028819796 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 policies-kick.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 quite-met.gl.at.ply.gg:3593 => 127.0.0.1:3593 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723027817142 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723028822857 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 policies-kick.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 quite-met.gl.at.ply.gg:3593 => 127.0.0.1:3593 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723027820198 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723028825925 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 policies-kick.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 quite-met.gl.at.ply.gg:3593 => 127.0.0.1:3593 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723027823261 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723028828994 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 policies-kick.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 quite-met.gl.at.ply.gg:3593 => 127.0.0.1:3593 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723027826385 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723028832057 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 policies-kick.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 quite-met.gl.at.ply.gg:3593 => 127.0.0.1:3593 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723027829441 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723028835121 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 policies-kick.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 quite-met.gl.at.ply.gg:3593 => 127.0.0.1:3593 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723027832502 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723028838182 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 policies-kick.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 quite-met.gl.at.ply.gg:3593 => 127.0.0.1:3593 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723027835567 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723028841377 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 policies-kick.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 quite-met.gl.at.ply.gg:3593 => 127.0.0.1:3593 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723027838622 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723028844440 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 policies-kick.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 quite-met.gl.at.ply.gg:3593 => 127.0.0.1:3593 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723027841677 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723028847502 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 policies-kick.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 quite-met.gl.at.ply.gg:3593 => 127.0.0.1:3593 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723027844736 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723028850566 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 policies-kick.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 quite-met.gl.at.ply.gg:3593 => 127.0.0.1:3593 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723027847793 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723028853628 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 policies-kick.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 quite-met.gl.at.ply.gg:3593 => 127.0.0.1:3593 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723027850859 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723028856696 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 policies-kick.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 quite-met.gl.at.ply.gg:3593 => 127.0.0.1:3593 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723027853926 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723028859764 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 policies-kick.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 quite-met.gl.at.ply.gg:3593 => 127.0.0.1:3593 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723027857000 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723028862824 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 policies-kick.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 quite-met.gl.at.ply.gg:3593 => 127.0.0.1:3593 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723027860066 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723028865887 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 policies-kick.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 quite-met.gl.at.ply.gg:3593 => 127.0.0.1:3593 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723027863127 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723028868951 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 policies-kick.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 quite-met.gl.at.ply.gg:3593 => 127.0.0.1:3593 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723027866182 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723028872016 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 policies-kick.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 quite-met.gl.at.ply.gg:3593 => 127.0.0.1:3593 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723027869239 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723028875076 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 policies-kick.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 quite-met.gl.at.ply.gg:3593 => 127.0.0.1:3593 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723027872302 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723028878144 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 policies-kick.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 quite-met.gl.at.ply.gg:3593 => 127.0.0.1:3593 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723027875367 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723028881209 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 policies-kick.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 quite-met.gl.at.ply.gg:3593 => 127.0.0.1:3593 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723027878420 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723028884277 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 policies-kick.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 quite-met.gl.at.ply.gg:3593 => 127.0.0.1:3593 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723027881488 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723028887338 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 policies-kick.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 quite-met.gl.at.ply.gg:3593 => 127.0.0.1:3593 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723027884558 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723028890412 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 policies-kick.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 quite-met.gl.at.ply.gg:3593 => 127.0.0.1:3593 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723027887616 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723028893477 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 policies-kick.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 quite-met.gl.at.ply.gg:3593 => 127.0.0.1:3593 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723027890674 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723028896558 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 policies-kick.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 quite-met.gl.at.ply.gg:3593 => 127.0.0.1:3593 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723027893733 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723028899627 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 policies-kick.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 quite-met.gl.at.ply.gg:3593 => 127.0.0.1:3593 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723027896789 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723028902703 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 policies-kick.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 quite-met.gl.at.ply.gg:3593 => 127.0.0.1:3593 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723027899853 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723028905764 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 policies-kick.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 quite-met.gl.at.ply.gg:3593 => 127.0.0.1:3593 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1723027902909 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1723028908824 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+policies-kick.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+quite-met.gl.at.ply.gg:3593 => 127.0.0.1:3593 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1723028911887 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+policies-kick.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+quite-met.gl.at.ply.gg:3593 => 127.0.0.1:3593 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1723028914949 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+policies-kick.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+quite-met.gl.at.ply.gg:3593 => 127.0.0.1:3593 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1723028918013 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+policies-kick.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+quite-met.gl.at.ply.gg:3593 => 127.0.0.1:3593 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1723028921097 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+policies-kick.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+quite-met.gl.at.ply.gg:3593 => 127.0.0.1:3593 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1723028924161 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+policies-kick.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+quite-met.gl.at.ply.gg:3593 => 127.0.0.1:3593 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1723028927223 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+policies-kick.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+quite-met.gl.at.ply.gg:3593 => 127.0.0.1:3593 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1723028930285 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+policies-kick.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+quite-met.gl.at.ply.gg:3593 => 127.0.0.1:3593 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1723028933350 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+policies-kick.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+quite-met.gl.at.ply.gg:3593 => 127.0.0.1:3593 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1723028936411 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+policies-kick.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+quite-met.gl.at.ply.gg:3593 => 127.0.0.1:3593 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1723028939475 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+policies-kick.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+quite-met.gl.at.ply.gg:3593 => 127.0.0.1:3593 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1723028942536 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+policies-kick.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+quite-met.gl.at.ply.gg:3593 => 127.0.0.1:3593 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1723028945601 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+policies-kick.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+quite-met.gl.at.ply.gg:3593 => 127.0.0.1:3593 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1723028948659 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+policies-kick.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+quite-met.gl.at.ply.gg:3593 => 127.0.0.1:3593 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1723028951730 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+policies-kick.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+quite-met.gl.at.ply.gg:3593 => 127.0.0.1:3593 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1723028954789 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+policies-kick.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+quite-met.gl.at.ply.gg:3593 => 127.0.0.1:3593 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1723028957853 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+policies-kick.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+quite-met.gl.at.ply.gg:3593 => 127.0.0.1:3593 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1723028960918 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+policies-kick.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+quite-met.gl.at.ply.gg:3593 => 127.0.0.1:3593 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1723028963987 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+policies-kick.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+quite-met.gl.at.ply.gg:3593 => 127.0.0.1:3593 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1723028967045 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+policies-kick.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+quite-met.gl.at.ply.gg:3593 => 127.0.0.1:3593 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1723028970102 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+policies-kick.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+quite-met.gl.at.ply.gg:3593 => 127.0.0.1:3593 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1723028973165 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+policies-kick.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+quite-met.gl.at.ply.gg:3593 => 127.0.0.1:3593 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1723028976229 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+policies-kick.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+quite-met.gl.at.ply.gg:3593 => 127.0.0.1:3593 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1723028979294 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+policies-kick.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+quite-met.gl.at.ply.gg:3593 => 127.0.0.1:3593 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1723028982361 tunnel running, 2 tunnels registered
 
 
 TUNNELS
